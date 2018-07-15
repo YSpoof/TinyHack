@@ -1,5 +1,4 @@
-# Meus mods do TinyCore Lindux :)
+# Meus mods/ports do TinyCore Lindux :)
 
-Acompanhe meu canal para novidades!!
+Acompanhe meu [canal](https://youtube.com/c/MrZeroXD) para novidades!!
 
-https://youtube.com/c/MrZeroXD
